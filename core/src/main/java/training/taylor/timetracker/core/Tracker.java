@@ -9,7 +9,7 @@ import java.util.List;
 @Component
 public class Tracker {
     
-    //This is comment
+    //This is comment provided for the continuous integration purpose
     
     @Autowired
     private List<TimeEntry> entries;
