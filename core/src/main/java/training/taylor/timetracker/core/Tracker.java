@@ -9,8 +9,8 @@ import java.util.List;
 @Component
 public class Tracker {
     
-    //This is comment provided for the continuous integration purpose
-    
+    //This is comment provided for the continuous integration purpose after commiting the changes in git
+   
     @Autowired
     private List<TimeEntry> entries;
 
