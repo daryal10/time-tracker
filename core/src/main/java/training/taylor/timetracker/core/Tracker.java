@@ -7,7 +7,7 @@ import training.taylor.timetracker.core.dao.TimeEntry;
 import java.util.List;
 
 @Component
-//public class Tracker {
+public class Tracker {
     
     //This is comment provided for the continuous integration purpose after commiting the changes in git project
    
